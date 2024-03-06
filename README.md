@@ -89,7 +89,7 @@ pip install -r sys.txt
 
   input_video.mp4 - это ваше видео,
   output_video.mp4 - это уже обработанное видео.
-  Замените название под ваше видео. 
+Замените название под ваше видео. 
   
 ![image](https://github.com/sdv301/kmeans/assets/68203784/86233ec0-4a07-49ec-8b58-f69c3f057fdc)
 
